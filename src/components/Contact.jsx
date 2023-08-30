@@ -30,7 +30,7 @@ function Contact() {
     // EmailJS parameters...
 
     emailjs
-      .send("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", templateParams, "YOUR_USER_ID")
+      .send("service_w887nfy", "template_sth0lbc", templateParams, "2SfExqYFm1w17PWkQ")
       .then((response) => {
         console.log("Email sent successfully!", response);
         setFormData({ name: "", email: "", message: "", answer: "" });
