@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";
-import { AiFillLinkedin, AiFillInstagram } from "react-icons/ai";
+import { AiFillLinkedin } from "react-icons/ai";
+import { BiLogoUpwork } from "react-icons/bi";
 
 function Navigation() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
