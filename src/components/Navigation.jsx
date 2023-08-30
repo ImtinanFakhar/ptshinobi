@@ -37,9 +37,9 @@ function Navigation() {
           <AiFillLinkedin size={32} color="#00557f" />
         </div>
       </a>
-      <a href="https://www.instagram.com/" className="group">
+     <a href="https://www.upwork.com/freelancers/ehtishamfakhar" className="group">
         <div className="rounded-full border-2 border-blue-500 p-2 group-hover:bg-blue-500 transition duration-300">
-          <AiFillInstagram size={32} color="#00557f" />
+          <BiLogoUpwork size={32} color="#00557f" />
         </div>
       </a>
     </div>
