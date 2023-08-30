@@ -39,7 +39,7 @@ function Navigation() {
         </div>
       </a>
      <a href="https://www.upwork.com/freelancers/ehtishamfakhar" className="group">
-        <div className="rounded-full border-2 border-blue-500 p-2 group-hover:bg-blue-500 transition duration-300">
+        <div className="rounded-full border-2 border-blue-500 p-2 group-hover:bg-green-500 transition duration-300">
           <BiLogoUpwork size={32} color="#00557f" />
         </div>
       </a>
